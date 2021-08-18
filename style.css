@@ -1,0 +1,55 @@
+body {
+
+  text-align: center;
+  height: 730px;
+  background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  margin-bottom: -15px;
+  font-size: 33px;
+  font-style:italic;
+  text-shadow: 2px 2px #F8BBDO;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+#hobby {
+  padding: 20px;
+  font-size: 17px;
+  text-align: center;
+}
+
+#pic1 {
+   height: 200px;
+   margin-bottom: 15px;
+   margin-left: 200px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    display: inline; 
+    padding-left: 22px; 
+    padding-right: 25px; 
+    font-family: fantasy; 
+    font-size: 20px 
+      } 
+
+.link:hover { 
+    font-size: 25px; 
+    text-decoration: underline; 
+       }
